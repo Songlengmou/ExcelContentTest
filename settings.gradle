@@ -1,0 +1,2 @@
+rootProject.name='ExcelContentTest'
+include ':app'
